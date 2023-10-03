@@ -1,2 +1,2 @@
 # researching-ML-models
-this notebook for assigment
+EDA and ML model researching
